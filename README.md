@@ -2,36 +2,17 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
 </p>
 
-### Hi there , I am Tushar Kesarwani Nice to see you !!👋
+<h1 align="center">### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> , I am Tushar Kesarwani Nice to see you !!</h1>
 
 [![Twitter: tushar_104](https://img.shields.io/twitter/follow/tushar_104?style=social)](https://twitter.com/tushar_104)
 [![Linkedin: tushar](https://img.shields.io/badge/-tusharkesarwani44-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tusharkesarwani44/)](https://www.linkedin.com/in/tusharkesarwani44/)
 [![GitHub tushar](https://img.shields.io/github/followers/TusharKesarwani?label=follow&style=social)](https://github.com/TusharKesarwani/)
 
 - 🔭 I’m currently working as contributor in a Open Soucre Contribution Program GSSoC'22
-- 🌱 I’m currently learning Web Development
-- 💬 Ask me about JAVA,C++,Web Development
+- 🌱 I’m currently learning Web Development & DSA
+- 💬 Ask me about JAVA, C++, Git, GitHub, Web Development
 - 📫 How to reach me: [linkedin:@Tushar](https://www.linkedin.com/in/tusharkesarwani44) , [Facebook:@Tushar](https://www.facebook.com/tusharkesarwani44) , [Instagram@Tushar](https://www.instagram.com/tusharkesarwani44) , [Linktree:@Tushar](https://linktr.ee/tushar_104)
 - 😄 Pronouns: He/His
-
-<p>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TusharKesarwani&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-  <img width="49%"   src="https://github-readme-streak-stats.herokuapp.com/?user=TusharKesarwani&theme=nightowl&hide_border=true&fire=DD2727" alt="TusharKesarwani" />
-  <img width="40%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=TusharKesarwani&color=0e75b6&style=flat&theme=nightowl&hide_border=true" alt="TusharKesarwani" />
-</p>
-
-<h3 align="center">A passionate Front-End Web developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TusharKesarwani&label=Profile%20views&color=0e75b6&style=flat" alt="TusharKesarwani" /> </p>
-
-<summary>:trophy: Github Profile Trophy</summary>
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=TusharKesarwani&theme=monokai&row=1&no-frame=true&no-bg=true/">
-
-
-- 👨‍💻 All of my projects are available at my Portfolio website.
--Check out here  [https://tusharkesarwani.github.io/portfolio/](https://tusharkesarwani.github.io/portfolio/)
-<img src="https://raw.githubusercontent.com/TusharKesarwani/TusharKesarwani/master/portfolio.png">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -57,6 +38,36 @@
 <p/>
 <br/>
 
+<h3 align="left">My CP Handles:</h3>
+<p align="left">
+  <a href="https://www.codechef.com/users/tushar_104" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tushar_104" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/tusharkesarwani1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tusharkesarwani1" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/tushar_104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tushar_104" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/tushar_104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tushar_104" height="30" width="40" /></a>
+  <a href="https://www.hackerearth.com/@tusharkesarwani44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="tusharkesarwani44" height="30" width="40" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/tusharkesarwani44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tusharkesarwani44" height="30" width="40" /></a>
+</p>
+<br/>
+
+<h3 align="center">A passionate Front-End Web developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TusharKesarwani&label=Profile%20views&color=0e75b6&style=flat" alt="TusharKesarwani" /> </p>
+
+<p>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TusharKesarwani&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+  <img width="49%"   src="https://github-readme-streak-stats.herokuapp.com/?user=TusharKesarwani&theme=nightowl&hide_border=true&fire=DD2727" alt="TusharKesarwani" />
+  <img width="40%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=TusharKesarwani&color=0e75b6&style=flat&theme=nightowl&hide_border=true" alt="TusharKesarwani" />
+</p>
+
+<summary>:trophy: Github Profile Trophy</summary>
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=TusharKesarwani&theme=monokai&row=1&no-frame=true&no-bg=true/">
+
+
+- 👨‍💻 All of my projects are available at my Portfolio website.
+-Check out here  [https://tusharkesarwani.github.io/portfolio/](https://tusharkesarwani.github.io/portfolio/)
+<img src="https://raw.githubusercontent.com/TusharKesarwani/TusharKesarwani/master/portfolio.png">
+<br/>
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
@@ -87,6 +98,9 @@
    <br/>
    <img src="https://activity-graph.herokuapp.com/graph?username=TusharKesarwani&theme=xcode" alt="Contribution Graph" align="center" />
 
+<div align="center">
+    <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+</div>
 ---
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
