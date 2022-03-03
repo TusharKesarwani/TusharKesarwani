@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+</p>
+
 ### Hi there , I am Tushar Kesarwani Nice to see you !!👋
 
 - 🔭 I’m currently working as contributor in a Open Soucre Contribution Program GSSoC'22
