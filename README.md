@@ -11,7 +11,7 @@
 - 🔭 I’m currently working as contributor in a Open Soucre Contribution Program GSSoC'22
 - 🌱 I’m currently learning Web Development & DSA
 - 💬 Ask me about JAVA, C++, Git, GitHub, Web Development
-- 📫 How to reach me: [linkedin:@Tushar](https://www.linkedin.com/in/tusharkesarwani44) , [Facebook:@Tushar](https://www.facebook.com/tusharkesarwani44) , [Instagram@Tushar](https://www.instagram.com/tusharkesarwani44) , [Linktree:@Tushar](https://linktr.ee/tushar_104)
+- 📫 How to reach me: [linkedin:@Tushar](https://www.linkedin.com/in/tusharkesarwani44) , [Facebook:@Tushar](https://www.facebook.com/tusharkesarwani44) , [Instagram@Tushar](https://www.instagram.com/tushar_.104) , [Linktree:@Tushar](https://linktr.ee/tushar_104)
 - 😄 Pronouns: He/His
 
 <h3 align="left">Connect with me:</h3>
@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white">  
   </a>
  
-  <a href="https://www.instagram.com/tusharkesarwani44">
+  <a href="https://www.instagram.com/tushar_.104">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
   </a>
 
