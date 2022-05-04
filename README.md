@@ -5,18 +5,18 @@
 <h1 align="center">### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> , I am Tushar Kesarwani Nice to see you !!</h1>
 
 [![Twitter: tushar_104](https://img.shields.io/twitter/follow/tushar_104?style=social)](https://twitter.com/tushar_104)
-[![Linkedin: tushar](https://img.shields.io/badge/-tusharkesarwani44-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tusharkesarwani44/)](https://www.linkedin.com/in/tusharkesarwani44/)
-[![GitHub tushar](https://img.shields.io/github/followers/TusharKesarwani?label=follow&style=social)](https://github.com/TusharKesarwani/)
+[![Linkedin: tushar104](https://img.shields.io/badge/-tushar104-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tushar104/)](https://www.linkedin.com/in/tushar104/)
+[![GitHub: TusharKesarwani](https://img.shields.io/github/followers/TusharKesarwani?label=follow&style=social)](https://github.com/TusharKesarwani/)
 
 - 🔭 I’m currently working as contributor in a Open Soucre Contribution Program GSSoC'22
 - 🌱 I’m currently learning Web Development & DSA
 - 💬 Ask me about JAVA, C++, Git, GitHub, Web Development
-- 📫 How to reach me: [linkedin:@Tushar](https://www.linkedin.com/in/tusharkesarwani44) , [Facebook:@Tushar](https://www.facebook.com/tusharkesarwani44) , [Instagram@Tushar](https://www.instagram.com/tushar_.104) , [Linktree:@Tushar](https://linktr.ee/tushar_104)
+- 📫 How to reach me: [linkedin:@Tushar](https://www.linkedin.com/in/tushar104) , [Facebook:@Tushar](https://www.facebook.com/tusharkesarwani44) , [Instagram@Tushar](https://www.instagram.com/tushar_.104) , [Linktree:@Tushar](https://linktr.ee/tushar_104)
 - 😄 Pronouns: He/His
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/tusharkesarwani44/">
+  <a href="https://www.linkedin.com/in/tushar104/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
   
