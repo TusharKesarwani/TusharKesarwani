@@ -2,7 +2,11 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
 </p>
 
-<h1 align="center">### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> , I am Tushar Kesarwani Nice to see you !!</h1>
+<h1 align="center">### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> , I am Tushar!!</h1>
+
+                                 T U S H A R   K E S A R W A N I ✨
+                      Web Developer | Open Source Enthusiast | Explorer | Competitive Programmer
+
 
 [![Twitter: tushar_104](https://img.shields.io/twitter/follow/tushar_104?style=social)](https://twitter.com/tushar_104)
 [![Linkedin: tushar104](https://img.shields.io/badge/-tushar104-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tushar104/)](https://www.linkedin.com/in/tushar104/)
