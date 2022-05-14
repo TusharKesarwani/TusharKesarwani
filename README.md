@@ -12,6 +12,7 @@
 [![Linkedin: tushar104](https://img.shields.io/badge/-tushar104-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tushar104/)](https://www.linkedin.com/in/tushar104/)
 [![GitHub: TusharKesarwani](https://img.shields.io/github/followers/TusharKesarwani?label=follow&style=social)](https://github.com/TusharKesarwani/)
 
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 - 🎓 Studying Information Technology from Madan Mohan Malaviya University of Technology, Gorakhpur.
 - 🔭 I’m currently working as contributor in a Open Soucre Contribution Program GSSoC'22
 - 🌱 I’m currently learning Web Development & DSA
