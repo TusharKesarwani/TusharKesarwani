@@ -81,7 +81,7 @@
   ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
   ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
   ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=007396)
-  ![Python](https://img.shields.io/badge/python-v3.7-blue)
+  ![Python](https://img.shields.io/badge/-Pyhton-000000?style=for-the-badge&logo=Python)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
@@ -91,15 +91,15 @@
   ![ExpressJS](https://img.shields.io/badge/-Express.js-787878?style=flat)
   ![NodeJS](https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white)
 - 🛢 &nbsp;
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=MongoDB)
   
 - ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=GitHub)
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Ubuntu](https://img.shields.io/badge/ubuntu-v22.04--0ubuntu1-blue)
-  ![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku&link=https://github.com/BRdhanani)
+  ![Visual Studio Code](https://img.shields.io/badge/-VisualStudioCode-000000?style=for-the-badge&logo=VisualStudioCode)
+  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=for-the-badge&logo=Ubuntu)
+  ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=for-the-badge&logo=Heroku)
 
 <br/>
 
