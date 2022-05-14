@@ -112,6 +112,13 @@
 </div>
 <br/>
 
+### Here is a random meme for you, to make your day better
+(*PS: Refresh the page to see a new meme* :wink: )
+
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400">
+
+<br/>
+
 ---
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
