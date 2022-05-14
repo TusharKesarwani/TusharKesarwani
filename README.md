@@ -84,12 +84,12 @@
   ![Python](https://img.shields.io/badge/-Pyhton-000000?style=for-the-badge&logo=Python)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
 - 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-  ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff)
-  ![ExpressJS](https://img.shields.io/badge/-Express.js-787878?style=flat)
-  ![NodeJS](https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5) 
+  ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=Bootstrap)
+  ![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=React)
+  ![ExpressJS](https://img.shields.io/badge/-Express.JS-000000?style=for-the-badge&logo=Express.JS)
+  ![NodeJS](https://img.shields.io/badge/-Node.JS-000000?style=for-the-badge&logo=Node.JS)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=MongoDB)
   
