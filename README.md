@@ -96,10 +96,10 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
   ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=GitHub)
+  ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=for-the-badge&logo=Heroku)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-VisualStudioCode-000000?style=for-the-badge&logo=VisualStudioCode)
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=for-the-badge&logo=Ubuntu)
-  ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=for-the-badge&logo=Heroku)
   ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=for-the-badge&logo=Flutter)
 
 <br/>
