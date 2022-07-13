@@ -15,7 +15,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me: </h3>
 
 - 🎓 Studying Information Technology from Madan Mohan Malaviya University of Technology, Gorakhpur.
-- 🔭 I’m currently working as contributor in a Open Soucre Contribution Program GSSoC'22
+- 🔭 I'm currently working as a Problem Setter - Coding Intern at iMocha and Doubt Solver at CodeChef. I also worked as contributor in an Open Soucre Contribution Program GSSoC'22
 - 🌱 I’m currently learning Web Development & DSA
 - 💬 Ask me about JAVA, C++, Git, GitHub, Web Development
 - 📫 How to reach me: [linkedin:@Tushar](https://www.linkedin.com/in/tushar104) , [Facebook:@Tushar](https://www.facebook.com/tusharkesarwani44) , [Instagram@Tushar](https://www.instagram.com/tushar_.104) , [Linktree:@Tushar](https://linktr.ee/tushar_104)
