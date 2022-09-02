@@ -106,7 +106,7 @@
 
 <br/>
 
-<summary>:chart_with_upwards_trend: Contribution Graph </summary>
+<summary>:chart_with_upwards_trend: Contribution Chart </summary>
    <br/>
    <img src="https://activity-graph.herokuapp.com/graph?username=TusharKesarwani&theme=xcode" alt="Contribution Graph" align="center" />
 
