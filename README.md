@@ -112,8 +112,9 @@
 
 <h2>My Contribution Graph 💹 </h2>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TusharKesarwani/TusharKesarwani/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
 <div align="center">
     <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
