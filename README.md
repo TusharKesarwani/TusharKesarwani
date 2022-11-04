@@ -75,7 +75,7 @@
 
 <summary>:trophy: Holopin badges</summary>
   <br/>
-  [![@tushar_104's Holopin board](https://holopin.me/tushar_104)](https://holopin.io/@tushar_104)
+  [![@tushar_104's Holopin board] (https://holopin.me/tushar_104)](https://holopin.io/@tushar_104)
 
 - 👨‍💻 All of my projects are available at my Portfolio website.
 -Check out here  [https://portfolio-of-tushar.netlify.app/](https://portfolio-of-tushar.netlify.app/)
