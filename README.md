@@ -73,12 +73,11 @@
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=TusharKesarwani&theme=monokai&row=1&no-frame=true&no-bg=true/">
 
-<summary>:trophy: Holopin badges</summary>
+<summary>:trophy: @tushar_104's Holopin board</summary>
   <br/>
   <a href="https://holopin.io/@tushar_104">
     <img src="https://holopin.me/tushar_104">
   </a>
-[![Holopin: @tushar_104's Holopin board](https://holopin.me/tushar_104)](https://holopin.io/@tushar_104)
 
 - 👨‍💻 All of my projects are available at my Portfolio website.
 -Check out here  [https://portfolio-of-tushar.netlify.app/](https://portfolio-of-tushar.netlify.app/)
