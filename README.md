@@ -69,6 +69,10 @@
   <img width="40%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=TusharKesarwani&color=0e75b6&style=flat&theme=nightowl&hide_border=true" alt="TusharKesarwani" />
 </p>
 
+<details> <summary align="center"> </samp></summary><b>Note:</b> Most Used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</details>
+
+---
+
 <summary>:trophy: Github Profile Trophy</summary>
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=TusharKesarwani&theme=monokai&row=1&no-frame=true&no-bg=true/">
