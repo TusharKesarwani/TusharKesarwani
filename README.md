@@ -87,6 +87,9 @@
 -Check out here  [https://portfolio-of-tushar.netlify.app/](https://portfolio-of-tushar.netlify.app/)
 <img src="https://raw.githubusercontent.com/TusharKesarwani/TusharKesarwani/master/portfolio.png">
 <br/>
+
+---
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
