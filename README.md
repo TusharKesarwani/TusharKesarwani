@@ -83,6 +83,64 @@
     <img src="https://holopin.me/tushar_104">
   </a>
 
+<h3>Check out my work:</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/TusharKesarwani/CodeChefMMMUTChapter"><b>CodeChefMMMUTChapter</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=6&color=343b41?color=blue"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=13&color=343b41?color=blue"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/TusharKesarwani/NSCC"><b>NSCC</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=3&color=343b41?color=blue"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=2&color=343b41?color=blue"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/TusharKesarwani/BIG-DATA"><b>Big-Data</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=4&color=343b41?color=blue"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=2&color=343b41?color=blue"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/TusharKesarwani/Front-End-Projects"><b>Front-End Projects</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=2&color=343b41?color=blue"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=0&color=343b41?color=blue"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/TusharKesarwani/Portfolio_App"><b>Portfolio_App</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=1&color=343b41?color=blue"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=0&color=343b41?color=blue"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/TusharKesarwani/portfolio"><b>portfolio</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=4&color=343b41?color=blue"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=0&color=343b41?color=blue"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/TusharKesarwani/Calculator"><b>Calculator</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=3&color=343b41?color=blue"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=0&color=343b41?color=blue"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/TusharKesarwani/Product_Launching_Website"><b>Product_Launching_Website</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=3&color=343b41?color=blue"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=1&color=343b41?color=blue"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/TusharKesarwani/Solution-Challenge"><b>Solution-Challenge</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=3&color=343b41?color=blue"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=1&color=343b41?color=blue"/></td>
+    </tr>
+  </tbody>
+</table>
+
 - 👨‍💻 All of my projects are available at my Portfolio website.
 -Check out here  [https://portfolio-of-tushar.netlify.app/](https://portfolio-of-tushar.netlify.app/)
 <img src="https://raw.githubusercontent.com/TusharKesarwani/TusharKesarwani/master/portfolio.png">
