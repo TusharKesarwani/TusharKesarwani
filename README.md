@@ -14,13 +14,16 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me: </h3>
 
-- 🎓 Studying Information Technology from Madan Mohan Malaviya University of Technology, Gorakhpur.
-- 🔭 I'm currently working as a Problem Setter - Coding Intern at iMocha.
-- 🔭 Mentored in an Open Source Contribution Program SSoC'22.
-- 🔭 Under Top 100 Contributor in an Open Soucre Contribution Program GSSoC'22.
-- 🔭 Worked as a Doubt Solver in [CodeChef](https://drive.google.com/file/d/1INFji3F38BwWp-M1lbAW045DZ-hNG-b3/view).
-- 🌱 I’m currently learning Web Development & DSA.
+- 🎓 I'm pursuing my Btech in Information Technology from Madan Mohan Malaviya University of Technology, Gorakhpur
+- 🔭 I'm currently working as a Problem Setter - Coding Intern at iMocha
+- 👯 I’m looking to collaborate with - Open Source Projects
+- 🥅 2023 Goal - 365 days of LeetCode
+- ⚒  Past Work - SSoC, GSSoC, HacktoberFest, Various Hackathons
+- 🔭 Worked as a Doubt Solver in [CodeChef](https://drive.google.com/file/d/1INFji3F38BwWp-M1lbAW045DZ-hNG-b3/view)
+- 🌱 I’m currently learning Web Development & DSA
 - 💬 Ask me about JAVA, C, C++, Git, GitHub, Web Development
+- 📃 Resume - [Resume](https://drive.google.com/file/d/1AG7um16KwdDNwFzxhdr5lc5jiBpIZ7R2/view?usp=share_link)
+- 💼 Portfolio - [Portfolio](https://portfolio-of-tushar.netlify.app/)
 - 📫 How to reach me: [linkedin:@Tushar](https://www.linkedin.com/in/tushar104) , [Facebook:@Tushar](https://www.facebook.com/tusharkesarwani44) , [Instagram@Tushar](https://www.instagram.com/tushar_.104) , [Linktree:@Tushar](https://linktr.ee/tushar_104)
 - 😄 Pronouns: He/His
 
