@@ -16,6 +16,7 @@
 
 - 🎓 I'm pursuing my Btech in Information Technology from Madan Mohan Malaviya University of Technology, Gorakhpur
 - 🔭 I'm currently working as a Problem Setter - Coding Intern at iMocha
+- 🔭 Project Admin at Social Winter of Code 3.0 (SWoC 3.0)
 - 👯 I’m looking to collaborate with - Open Source Projects
 - 🥅 2023 Goal - 365 days of LeetCode
 - ⚒  Past Work - SSoC, GSSoC, HacktoberFest, Various Hackathons
