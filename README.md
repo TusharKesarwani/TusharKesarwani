@@ -18,7 +18,6 @@
 - 🔭 I'm currently working as a Problem Setter - Coding Intern at iMocha
 - 🔭 Project Admin at Social Winter of Code 3.0 (SWoC 3.0)
 - 👯 I’m looking to collaborate with - Open Source Projects
-- 🥅 2023 Goal - 365 days of LeetCode
 - ⚒  Past Work - SSoC, GSSoC, HacktoberFest, Various Hackathons
 - 🔭 Worked as a Doubt Solver in [CodeChef](https://drive.google.com/file/d/1INFji3F38BwWp-M1lbAW045DZ-hNG-b3/view)
 - 🌱 I’m currently learning Web Development & DSA
