@@ -97,6 +97,11 @@
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/TusharKesarwani/Front-End-Projects"><b>Front-End Projects</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=13&color=343b41?color=blue"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=14&color=343b41?color=blue"/></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/TusharKesarwani/CodeChefMMMUTChapter"><b>CodeChefMMMUTChapter</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=5&color=343b41?color=blue"/></td>
       <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=17&color=343b41?color=blue"/></td>
@@ -110,11 +115,6 @@
       <td><a href="https://github.com/TusharKesarwani/BIG-DATA"><b>Big-Data</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=5&color=343b41?color=blue"/></td>
       <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=4&color=343b41?color=blue"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/TusharKesarwani/Front-End-Projects"><b>Front-End Projects</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=7&color=343b41?color=blue"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=8&color=343b41?color=blue"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/TusharKesarwani/Portfolio_App"><b>Portfolio_App</b></a></td>
