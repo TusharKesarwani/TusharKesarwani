@@ -80,6 +80,8 @@
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=TusharKesarwani&theme=monokai&row=1&no-frame=true&no-bg=true/">
 
+[![tushar104's GitHub stats](https://stats.quine.sh/tushar104/github)](https://stats.quine.sh/tushar104/github)
+
 <summary>:trophy: @tushar_104's Holopin board</summary>
   <br/>
   <a href="https://holopin.io/@tushar_104">
