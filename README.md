@@ -102,8 +102,8 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/TusharKesarwani/Front-End-Projects"><b>Front-End Projects</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=60&color=343b41?color=blue"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=152&color=343b41?color=blue"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=59&color=343b41?color=blue"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=156&color=343b41?color=blue"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/TusharKesarwani/CodeChefMMMUTChapter"><b>CodeChefMMMUTChapter</b></a></td>
