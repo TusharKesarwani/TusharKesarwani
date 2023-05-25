@@ -17,7 +17,8 @@
 - 🎓 I'm pursuing my Btech in Information Technology from Madan Mohan Malaviya University of Technology, Gorakhpur
 - 🔭 I'm currently working as a Problem Setter - Coding Intern at iMocha
 - 👯 I’m looking to collaborate with - Open Source Projects
-- ⚒  Past Work - SWOC 3.0 (2023), SSoC 2022, GSSoC 2022, HacktoberFest (2021,2022), Various Hackathons
+- 🔭 Project Admin at SSOC 2.0 (2023)
+- ⚒  Past Work - Project Admin at SWOC 3.0 (2023), Mentor at SSoC 2022, Contributor at GSSoC 2022, HacktoberFest (2021,2022)
 - 🔭 Worked as a Doubt Solver in [CodeChef](https://drive.google.com/file/d/1INFji3F38BwWp-M1lbAW045DZ-hNG-b3/view)
 - 🌱 I’m currently learning Web Development & DSA
 - 💬 Ask me about JAVA, C, C++, Git, GitHub, Web Development
