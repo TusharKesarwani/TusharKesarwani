@@ -22,7 +22,7 @@
 - 🔭 Worked as a Doubt Solver in [CodeChef](https://drive.google.com/file/d/1INFji3F38BwWp-M1lbAW045DZ-hNG-b3/view)
 - 🌱 I’m currently learning Web Development & DSA
 - 💬 Ask me about JAVA, C, C++, Git, GitHub, Web Development
-- 📃 Resume - [Resume](https://drive.google.com/file/d/1AG7um16KwdDNwFzxhdr5lc5jiBpIZ7R2/view?usp=share_link)
+- 📃 Resume - [Resume](https://drive.google.com/file/d/1AG7um16KwdDNwFzxhdr5lc5jiBpIZ7R2/view)
 - 💼 Portfolio - [Portfolio](https://portfolio-of-tushar.netlify.app/)
 - 📫 How to reach me: [linkedin:@Tushar](https://www.linkedin.com/in/tushar104) , [Facebook:@Tushar](https://www.facebook.com/tusharkesarwani44) , [Instagram@Tushar](https://www.instagram.com/tushar_.104) , [Linktree:@Tushar](https://linktr.ee/tushar_104)
 - 😄 Pronouns: He/His
