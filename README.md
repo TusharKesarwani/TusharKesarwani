@@ -102,8 +102,8 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/TusharKesarwani/Front-End-Projects"><b>Front-End Projects</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=277&color=343b41?color=blue"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=485&color=343b41?color=blue"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=288&color=343b41?color=blue"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=505&color=343b41?color=blue"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/TusharKesarwani/BIG-DATA"><b>Big-Data</b></a></td>
