@@ -17,12 +17,11 @@
 - 🎓 I'm pursuing my Btech in Information Technology from Madan Mohan Malaviya University of Technology, Gorakhpur
 - 🔭 I'm currently working as a Problem Setter - Coding Intern at iMocha
 - 👯 I’m looking to collaborate with - Open Source Projects
-- 🔭 Project Admin at SSOC 2.0 (2023) and Mentor at GSSoC 2023
-- ⚒  Past Work - Project Admin at SWOC 3.0 (2023), Mentor at SSoC 2022, Contributor at GSSoC 2022, HacktoberFest (2021,2022)
+- ⚒  Past Work - Project Admin at SSOC 2.0 (2023) and SWOC 3.0 (2023), Project Mentor at GSSoC 2023 and SSoC 2022, Contributor at GSSoC 2022, HacktoberFest (2021,2022)
 - 🔭 Worked as a Doubt Solver in [CodeChef](https://drive.google.com/file/d/1INFji3F38BwWp-M1lbAW045DZ-hNG-b3/view)
 - 🌱 I’m currently learning Web Development & DSA
 - 💬 Ask me about JAVA, C, C++, Git, GitHub, Web Development
-- 📃 Resume - [Resume](https://drive.google.com/file/d/1AG7um16KwdDNwFzxhdr5lc5jiBpIZ7R2/view)
+- 📃 Resume - [Resume](https://drive.google.com/file/d/1sEsMJeUtuneAzD26g8XpOzQjhBk1RrFb/view?usp=sharing)
 - 💼 Portfolio - [Portfolio](https://portfolio-of-tushar.netlify.app/)
 - 📫 How to reach me: [linkedin:@Tushar](https://www.linkedin.com/in/tushar104) , [Facebook:@Tushar](https://www.facebook.com/tusharkesarwani44) , [Instagram@Tushar](https://www.instagram.com/tushar_.104) , [Linktree:@Tushar](https://linktr.ee/tushar_104)
 - 😄 Pronouns: He/His
@@ -53,9 +52,9 @@
 
 <h3 align="left">My CP Handles:</h3>
 <p align="left">
+  <a href="https://codeforces.com/profile/tushar_104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tushar_104" height="30" width="40" /></a>
   <a href="https://www.codechef.com/users/tushar_104" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tushar_104" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/tusharkesarwani1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tusharkesarwani1" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/tushar_104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tushar_104" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/tushar_104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tushar_104" height="30" width="40" /></a>
   <a href="https://www.hackerearth.com/@tusharkesarwani44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="tusharkesarwani44" height="30" width="40" /></a>
   <a href="https://auth.geeksforgeeks.org/user/tusharkesarwani44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tusharkesarwani44" height="30" width="40" /></a>
@@ -102,13 +101,18 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/TusharKesarwani/Front-End-Projects"><b>Front-End Projects</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=293&color=343b41?color=blue"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=515&color=343b41?color=blue"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=295&color=343b41?color=blue"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=508&color=343b41?color=blue"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/TusharKesarwani/BIG-DATA"><b>Big-Data</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=7&color=343b41?color=blue"/></td>
       <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=6&color=343b41?color=blue"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/TusharKesarwani/TaskNinja"><b>Task Ninja</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=1&color=343b41?color=blue"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=0&color=343b41?color=blue"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/TusharKesarwani/CodeChefMMMUTChapter"><b>CodeChefMMMUTChapter</b></a></td>
@@ -127,7 +131,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/TusharKesarwani/portfolio"><b>portfolio</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=4&color=343b41?color=blue"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=5&color=343b41?color=blue"/></td>
       <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=0&color=343b41?color=blue"/></td>
     </tr>
     <tr>
