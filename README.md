@@ -193,9 +193,19 @@
 
 <br/>
 
-<summary>:chart_with_upwards_trend: Contribution Chart </summary>
-   <br/>
-   <img src="https://activity-graph.herokuapp.com/graph?username=TusharKesarwani&theme=xcode" alt="Contribution Graph" align="center" />
+<h2 align="center">Statistics</h2>
+<div align="center">
+<a href="https://github.com/TusharKesarwani">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TusharKesarwani&theme=2077" height="180em"/>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TusharKesarwani&theme=2077" height="180em"/>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TusharKesarwani&theme=2077" height="180em"/>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TusharKesarwani&theme=2077" height="180em"/>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TusharKesarwani&theme=2077" height="180em"/>
+</div>
+
+<!-- <summary>:chart_with_upwards_trend: Contribution Chart </summary> -->
+<!--    <br/> -->
+<!--    <img src="https://activity-graph.herokuapp.com/graph?username=TusharKesarwani&theme=xcode" alt="Contribution Graph" align="center" /> -->
 
 <h2>My Contribution Graph 💹 </h2>
 
