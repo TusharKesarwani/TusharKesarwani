@@ -65,11 +65,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TusharKesarwani&label=Profile%20views&color=0e75b6&style=flat" alt="TusharKesarwani" /> </p>
 
-<p>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TusharKesarwani&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-  <img width="49%"   src="https://github-readme-streak-stats.herokuapp.com/?user=TusharKesarwani&theme=nightowl&hide_border=true&fire=DD2727" alt="TusharKesarwani" />
-  <img width="40%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=TusharKesarwani&color=0e75b6&style=flat&theme=nightowl&hide_border=true" alt="TusharKesarwani" />
-</p>
+
+<h2 align="center">Statistics</h2>
+<div align="center">
+<a href="https://github.com/TusharKesarwani">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TusharKesarwani&theme=nightowl&hide_border=true&fire=DD2727" height="180em" alt="TusharKesarwani" />
+<!--   <img width="40%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=TusharKesarwani&color=0e75b6&style=flat&theme=nightowl&hide_border=true" alt="TusharKesarwani" /> -->
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TusharKesarwani&theme=2077" height="180em" alt="TusharKesarwani" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TusharKesarwani&theme=2077" height="180em" alt="TusharKesarwani" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TusharKesarwani&theme=2077" height="180em" alt="TusharKesarwani" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TusharKesarwani&theme=2077" height="180em" alt="TusharKesarwani" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TusharKesarwani&theme=2077" height="180em" alt="TusharKesarwani" />
+</div>
 
 <details> <summary align="center"> </samp></summary><b>Note:</b> Most Used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</details>
 
@@ -192,16 +199,6 @@
   ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=for-the-badge&logo=Flutter)
 
 <br/>
-
-<h2 align="center">Statistics</h2>
-<div align="center">
-<a href="https://github.com/TusharKesarwani">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TusharKesarwani&theme=2077" height="180em"/>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TusharKesarwani&theme=2077" height="180em"/>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TusharKesarwani&theme=2077" height="180em"/>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TusharKesarwani&theme=2077" height="180em"/>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TusharKesarwani&theme=2077" height="180em"/>
-</div>
 
 <!-- <summary>:chart_with_upwards_trend: Contribution Chart </summary> -->
 <!--    <br/> -->
