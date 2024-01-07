@@ -15,10 +15,10 @@
 <h3> 👨🏻‍💻 &nbsp;About Me: </h3>
 
 - 🎓 I'm pursuing my Btech in Information Technology from Madan Mohan Malaviya University of Technology, Gorakhpur
-- 🔭 I'm currently working as a Problem Setter - Coding Intern at iMocha
+- 🔭 I'm currently working as an SDE Intern in AiProff
 - 👯 I’m looking to collaborate with - Open Source Projects
 - ⚒  Past Work - Project Admin at SSOC 2.0 (2023) and SWOC 3.0 (2023), Project Mentor at GSSoC 2023 and SSoC 2022, Contributor at GSSoC 2022, HacktoberFest (2021,2022)
-- 🔭 Worked as a Doubt Solver in [CodeChef](https://drive.google.com/file/d/1INFji3F38BwWp-M1lbAW045DZ-hNG-b3/view)
+- 🔭 Worked as a Problem Setter at [iMocha](https://drive.google.com/file/d/1Fb3B-9tCRTP5kbmYGr7u73hsNgwRknvX/view) and as a Doubt Solver at [CodeChef](https://drive.google.com/file/d/1INFji3F38BwWp-M1lbAW045DZ-hNG-b3/view)
 - 🌱 I’m currently learning Web Development & DSA
 - 💬 Ask me about JAVA, C, C++, Git, GitHub, Web Development
 - 📃 Resume - [Resume](https://drive.google.com/file/d/1sEsMJeUtuneAzD26g8XpOzQjhBk1RrFb/view?usp=sharing)
