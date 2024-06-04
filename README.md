@@ -109,22 +109,37 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/TusharKesarwani/Front-End-Projects"><b>Front-End Projects</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=355&color=343b41?color=blue"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=541&color=343b41?color=blue"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=387&color=343b41?color=blue"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=576&color=343b41?color=blue"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/TusharKesarwani/BIG-DATA"><b>Big-Data</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=8&color=343b41?color=blue"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=6&color=343b41?color=blue"/></td>
+      <td><a href="https://github.com/TusharKesarwani/AI-Chatbot"><b>AI Chatbot</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=1&color=343b41?color=blue"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=0&color=343b41?color=blue"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/TusharKesarwani/TaskNinja"><b>Task Ninja</b></a></td>
+      <td><a href="https://github.com/TusharKesarwani/kanban-board"><b>Kanban Board</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=1&color=343b41?color=blue"/></td>
       <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=0&color=343b41?color=blue"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/TusharKesarwani/Quiz-App"><b>Quiz App</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=3&color=343b41?color=blue"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=0&color=343b41?color=blue"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/TusharKesarwani/Headless-CMS"><b>Headless CMS</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=1&color=343b41?color=blue"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=0&color=343b41?color=blue"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/TusharKesarwani/BIG-DATA"><b>Big-Data</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=7&color=343b41?color=blue"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=6&color=343b41?color=blue"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/TusharKesarwani/TaskNinja"><b>Task Ninja</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=1&color=343b41?color=blue"/></td>
       <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=0&color=343b41?color=blue"/></td>
     </tr>
     <tr>
@@ -139,8 +154,8 @@
     </tr>
     <tr>
       <td><a href="https://github.com/TusharKesarwani/ChatGPTPromptWithPython"><b>ChatGPTPromptWithPython</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=3&color=343b41?color=blue"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=2&color=343b41?color=blue"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=2&color=343b41?color=blue"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=1&color=343b41?color=blue"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/TusharKesarwani/Portfolio_App"><b>Portfolio_App</b></a></td>
@@ -213,7 +228,8 @@
 <h2>My Contribution Graph 💹 </h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TusharKesarwani/TusharKesarwani/output/github-contribution-grid-snake.svg" alt="snake"></center>
+<!--   <img src="https://raw.githubusercontent.com/TusharKesarwani/TusharKesarwani/output/github-contribution-grid-snake.svg" alt="snake"></center> -->
+  ![TusharKesarwani's Graph](https://github-readme-activity-graph.vercel.app/graph?username=TusharKesarwani&custom_title=Tushar's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 </p>
 
 <div align="center">
