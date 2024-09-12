@@ -21,7 +21,6 @@
 - 🔭 Worked as an SDE Intern at [AiProff](https://drive.google.com/file/d/19BCg99x7u7X7CPYnY1kvv3qbmUuzkBiT/view), Problem Setter at [iMocha](https://drive.google.com/file/d/1Fb3B-9tCRTP5kbmYGr7u73hsNgwRknvX/view) and Doubt Solver at [CodeChef](https://drive.google.com/file/d/1INFji3F38BwWp-M1lbAW045DZ-hNG-b3/view)
 - 🌱 I’m currently learning Web Development & DSA
 - 💬 Ask me about JAVA, C, C++, Git, GitHub, Web Development
-- 📃 Resume - [Resume](https://drive.google.com/file/d/1sEsMJeUtuneAzD26g8XpOzQjhBk1RrFb/view?usp=sharing)
 - 💼 Portfolio - [Portfolio](https://portfolio-of-tushar.netlify.app/)
 - 📫 How to reach me: [linkedin:@Tushar](https://www.linkedin.com/in/tushar104) , [Facebook:@Tushar](https://www.facebook.com/tusharkesarwani44) , [Instagram@Tushar](https://www.instagram.com/tushar_.104) , [Linktree:@Tushar](https://linktr.ee/tushar_104)
 - 😄 Pronouns: He/His
@@ -109,12 +108,12 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/TusharKesarwani/Front-End-Projects"><b>Front-End Projects</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=387&color=343b41?color=blue"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=576&color=343b41?color=blue"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=408&color=343b41?color=blue"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=581&color=343b41?color=blue"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/TusharKesarwani/AI-Chatbot"><b>AI Chatbot</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=1&color=343b41?color=blue"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=2&color=343b41?color=blue"/></td>
       <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=0&color=343b41?color=blue"/></td>
     </tr>
     <tr>
@@ -124,7 +123,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/TusharKesarwani/Quiz-App"><b>Quiz App</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=3&color=343b41?color=blue"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=2&color=343b41?color=blue"/></td>
       <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=0&color=343b41?color=blue"/></td>
     </tr>
     <tr>
@@ -143,8 +142,8 @@
       <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=0&color=343b41?color=blue"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/TusharKesarwani/CodeChefMMMUTChapter"><b>CodeChefMMMUTChapter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=5&color=343b41?color=blue"/></td>
+      <td><a href="https://github.com/TusharKesarwani/CodeChefMMMUTChapter"><b>CodeChef MMMUT Chapter</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=4&color=343b41?color=blue"/></td>
       <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=20&color=343b41?color=blue"/></td>
     </tr>
     <tr>
@@ -153,7 +152,7 @@
       <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=2&color=343b41?color=blue"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/TusharKesarwani/ChatGPTPromptWithPython"><b>ChatGPTPromptWithPython</b></a></td>
+      <td><a href="https://github.com/TusharKesarwani/ChatGPTPromptWithPython"><b>ChatGPT Prompt With Python</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=2&color=343b41?color=blue"/></td>
       <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=1&color=343b41?color=blue"/></td>
     </tr>
@@ -169,7 +168,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/TusharKesarwani/Calculator"><b>Calculator</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=4&color=343b41?color=blue"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=5&color=343b41?color=blue"/></td>
       <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=1&color=343b41?color=blue"/></td>
     </tr>
     <tr>
