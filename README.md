@@ -232,6 +232,9 @@
 
 ![TusharKesarwani's Graph](https://github-readme-activity-graph.vercel.app/graph?username=TusharKesarwani&custom_title=Tushar's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
+
+![Snake animation](https://raw.githubusercontent.com/TusharKesarwani/TusharKesarwani/output/github-snake.svg)
+
 <div align="center">
     <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 </div>
