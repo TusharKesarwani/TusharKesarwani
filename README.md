@@ -22,7 +22,7 @@
 - 🌱 I’m currently learning Web Development & DSA
 - 💬 Ask me about JAVA, C, C++, Git, GitHub, Web Development
 - 💼 Portfolio - [Portfolio](https://portfolio-of-tushar.netlify.app/)
-- 📫 How to reach me: [linkedin:@Tushar](https://www.linkedin.com/in/tushar104) , [Facebook:@Tushar](https://www.facebook.com/tusharkesarwani44) , [Linktree:@Tushar](https://linktr.ee/tushar_104)
+- 📫 How to reach me: [linkedin:@Tushar](https://www.linkedin.com/in/tushar104) , [Linktree:@Tushar](https://linktr.ee/tushar_104)
 - 😄 Pronouns: He/His
 
 <h3 align="left">Connect with me:</h3>
