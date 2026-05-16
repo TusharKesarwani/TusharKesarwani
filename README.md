@@ -18,7 +18,7 @@
 - 🔭 I'm currently working as an Software Development Engineer at Zomato
 - 👯 I’m looking to collaborate with - Open Source Projects
 - ⚒  Past Work - Project Admin at SSOC 2.0 (2023) and SWOC 3.0 (2023), Project Mentor at GSSoC 2023 and SSoC 2022, Contributor at GSSoC 2022, HacktoberFest (2021,2022)
-- 🔭 Worked as an SDE Intern at [Probo](https://drive.google.com/file/d/1bNqUn5em972_dK1DY3p0onGVXfk4o3Wk/view), SDE Intern at [AiProff](https://drive.google.com/file/d/19BCg99x7u7X7CPYnY1kvv3qbmUuzkBiT/view), Problem Setter at [iMocha](https://drive.google.com/file/d/1Fb3B-9tCRTP5kbmYGr7u73hsNgwRknvX/view) and Doubt Solver at [CodeChef](https://drive.google.com/file/d/1INFji3F38BwWp-M1lbAW045DZ-hNG-b3/view)
+- 🔭 Worked as an SDE Intern at [Probo](https://drive.google.com/file/d/1q2Zth2oTEQ795Qk4ofTjZWkV9Kn7QmDi/view), SDE Intern at [AiProff](https://drive.google.com/file/d/1PKRy0SmfPMSkJ0IkmB3B1kjDYV_pe8ys/view?usp=sharing), Problem Setter at [iMocha](https://drive.google.com/file/d/1Fb3B-9tCRTP5kbmYGr7u73hsNgwRknvX/view) and Doubt Solver at [CodeChef](https://drive.google.com/file/d/1INFji3F38BwWp-M1lbAW045DZ-hNG-b3/view)
 - 🌱 I’m currently learning Web Development & DSA
 - 💬 Ask me about JAVA, C, C++, Git, GitHub, Web Development
 - 💼 Portfolio - [Portfolio](https://portfolio-of-tushar.netlify.app/)
